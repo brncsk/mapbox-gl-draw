@@ -28,3 +28,4 @@ module.exports = function(options) {
 };
 
 module.exports.modes = require('./src/modes');
+module.exports.constants = Constants;
